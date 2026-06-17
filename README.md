@@ -1,4 +1,4 @@
-[Grow up.html](https://github.com/user-attachments/files/29042514/Grow.up.html)
+[Grow-up.html](https://github.com/user-attachments/files/29042514/Grow.up.html)
 <!DOCTYPE html>
 <html lang="de">
 <head>
